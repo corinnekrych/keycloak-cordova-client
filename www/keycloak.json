@@ -1,9 +1,8 @@
 {
   "realm": "Demo",
-  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvG7rQXsf53D12NAiHg18jQd+xPB7FvTkMkpki7yrsyS2J9QzEKltNmGJ/MxmJMXNDI0hh2V+5E88LJ/syrkeCZdfJoEhhDZ8u7cTqZwZ5yekyFp7ropifaaBuNvM1igoy8KKx380dY2ELmAbOyKeMAG8P5ewWi6QlaRzL2vZ0qxgIZ5C2NUKtWgyEO97J0mlJ5C9TXuQR28H8YNK6WCW5Kfg6odSVwmwRL1i+EAdEbFlEYHU1eeZyOP3BoBfrO81mk97CKprboyxvuQiLTbJQ42yHi6HtPg0/+xES7LwMW3ZBN22XMA1O/2de8tLbx9dvlOn+winResPUusgs6C+8QIDAQAB",
-  "auth-server-url": "https://keycloak-jimwuzhere.rhcloud.com/auth",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv3Z6dTLb/on/6L6Lobj2+by5CZLVZPw9Up+0wjqkyJ3Z/fUZMlSECSeYhYN5u6IFuzBICf6iMd1hl9WmFJybdOMBqE2EHPj7IwK6UlfEzk7PDCn/J5o+hZq4drnj41zzKowNuweRDj59T8lsBSeF1VFAubcZ4s9u2BE/1Z3WYnUmqLn6nETICRRYly4blk5tUQvROGa280/0vV2S9KXdsnKMUgSntnPjIa3iw9UvSdy+nmVX8phFkio1GuZUcKj6sTzqdQNdgV5rtMml5XmSJY4WWtZSnP6pg5/ydQwU/i/2Kjxb0kwDVoEgw2n8DspEG7pp/nVASCANsGUzhgRInQIDAQAB",
+  "auth-server-url": "https://keycloak-ckrych.rhcloud.com/auth",
   "ssl-required": "external",
   "resource": "cordovaKeycloakDemo",
-  "public-client": true,
-  "use-resource-role-mappings": true
+  "public-client": true
 }
