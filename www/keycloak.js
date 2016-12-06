@@ -579,7 +579,7 @@
 
                 req.onreadystatechange = function () {
                     if (req.readyState == 4) {
-                        if (req.status == 200) {
+                        if (req.status == 200 || req.status == 0) {
                             var config = JSON.parse(req.responseText);
 
                             kc.authServerUrl = config['auth-server-url'];
